@@ -4,7 +4,7 @@
 - 🌟 **QT Framework**
 - 🐍 **Python**
 - 💻 **C++**
-- 🤖 **Deep Learning**
+- 🤖 **Computer vision**
 
 ---
 
