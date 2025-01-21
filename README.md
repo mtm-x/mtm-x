@@ -43,4 +43,9 @@
 
 ---
 
+<p> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/mtm-x/count.svg" />
+</p>
+---
 > 💡 "Stay curious, keep building, and embrace growth!" 🚀
