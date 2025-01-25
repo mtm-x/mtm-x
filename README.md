@@ -23,6 +23,9 @@
   <a href="https://medium.com/@mtm-x">
     <img src="https://img.shields.io/badge/-MEDIUM-0A0A0A?style=for-the-badge&logo=medium&logoColor=20C20E&link=https://medium.com/@mtm-x" alt="Medium"/>
   </a>
+    <a href="https://mtm-x.github.io/">
+    <img src="https://img.shields.io/badge/-PORTFOLIO-0A0A0A?style=for-the-badge&logo=internet-explorer&logoColor=20C20E" alt="MySite"/>
+  </a>
 </p>
 
 
@@ -52,4 +55,4 @@ $ pip install PySide6 PyQt6
   <img src="https://count.getloli.com/get/@mtm-x?theme=gelbooru" alt="kawaii visitor counter">
 </p>
 
-> 🚀 Compiled with <3 using VIM on Arch
+> 🚀 Compiled with <3 using VIM on Arch.
