@@ -48,7 +48,8 @@ $ pip install PySide6 PyQt6
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mtm-x&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&text_color=20C20E)
 
 # 👾 Intrusion Detection
-<p align="center"> <img src="https://count.getloli.com/get/@mtm-x?theme=moebooru" alt="visitor counter"/> <br> <sub>WARNING: System accessed by unknown entities</sub> </p>
-
+<p align="center">
+  <img src="https://count.getloli.com/get/@mtm-x?theme=gelbooru" alt="kawaii visitor counter">
+</p>
 
 > 🚀 Compiled with <3 using VIM on Arch
