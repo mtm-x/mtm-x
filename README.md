@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Hack&weight=600&size=26&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=%24+ssh+mtm-x%40127.0.0.1;sudo+access+granted;./mtm_x.sh" alt="Matrix Typing Effect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Hack&weight=600&size=26&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=%24+Hello;I'm Thamaraimanalan M" alt="Matrix Typing Effect" />
 </h1>
 
 <p align="center">
@@ -45,10 +45,14 @@ $ pip install PySide6 PyQt6
   <img src="https://skillicons.dev/icons?i=qt,python,cpp,bash,linux,git,arch" alt="Skills" />
 </p>
 
+### 📈 GitHub Activity Graph:
+<!--   green snake -->
+![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
+<!--   stats + languages -->
+| .                                                                                                                                       | .                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=mtm-x&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mtm-x&theme=radical&layout=compact) |
 
-# Code Execution Statistics
-![](https://github-readme-stats.vercel.app/api?username=mtm-x&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=20&text_color=20C20E&icon_color=20C20E)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mtm-x&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&text_color=20C20E)
 
 # 👾 Intrusion Detection
 <p align="center">
