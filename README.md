@@ -23,7 +23,7 @@
   <a href="https://medium.com/@mtm-x">
     <img src="https://img.shields.io/badge/-MEDIUM-0A0A0A?style=for-the-badge&logo=medium&logoColor=20C20E&link=https://medium.com/@mtm-x" alt="Medium"/>
   </a>
-    <a href="https://mtm-x.github.io/">
+    <a href="https://thamaraimanalan.vercel.app/">
     <img src="https://img.shields.io/badge/-PORTFOLIO-0A0A0A?style=for-the-badge&logo=internet-explorer&logoColor=20C20E" alt="MySite"/>
   </a>
 </p>
