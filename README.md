@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGxzcGY0Zm9laWQ2N3p0dmxzNnIzdGtwZ3Aya3I0NGJiZWNkZTk2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YKFR0dauxYEzJA8J6U/giphy.gif" width="400" alt="Cyber Interface">
+  <img src="https://media.giphy.com/media/yyVph7ANKftIs/giphy.gif?cid=790b76119kfeb4sbbnu4umsp7mt1uofrkdekdk3m8rkyfved&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400" alt="Cyber Interface">
 </p>
 
 ### **🌀 Core System Modules**  
