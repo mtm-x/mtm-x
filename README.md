@@ -6,41 +6,9 @@
   <img src="https://media.giphy.com/media/yyVph7ANKftIs/giphy.gif?cid=790b76119kfeb4sbbnu4umsp7mt1uofrkdekdk3m8rkyfved&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400" alt="Cyber Interface">
 </p>
 
-### **🌀 Core System Modules**  
-> _Currently compiling..._  
-⌬ **QT Framework**  `v6.5.1 | STATUS: OPTIMIZING`  
-⌬ **Python**  `v3.11.4 | STATUS: DEBUGGING`  
-⌬ **C++**  `v20.1 | STATUS: EXECUTING`  
-⌬ **OpenCV**  `v4.8.0 | STATUS: INITIALIZING`  
-
 ---
 
-### **📡 Connection Protocols**  
-<p align="center">
-  <a href="https://linkedin.com/in/mtm-x">
-    <img src="https://img.shields.io/badge/-LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=20C20E&link=https://linkedin.com/in/mtm-x" alt="LinkedIn"/>
-  </a>
-  <a href="https://medium.com/@mtm-x">
-    <img src="https://img.shields.io/badge/-MEDIUM-0A0A0A?style=for-the-badge&logo=medium&logoColor=20C20E&link=https://medium.com/@mtm-x" alt="Medium"/>
-  </a>
-    <a href="https://thamaraimanalan.vercel.app/">
-    <img src="https://img.shields.io/badge/-PORTFOLIO-0A0A0A?style=for-the-badge&logo=internet-explorer&logoColor=20C20E" alt="MySite"/>
-  </a>
-</p>
-
-
-### **🛠️ Active Toolset**  
-```bash
-# System Status: OPERATIONAL
-$ sudo pacman -S \
-  git\
-  qt-creator \
-  python \
-  opencv\
-
-$ pip install PySide6 PyQt6 
-```
-
+### 🛠️ Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=qt,python,cpp,bash,linux,git,arch" alt="Skills" />
 </p>
