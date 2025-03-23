@@ -13,13 +13,10 @@
   <img src="https://skillicons.dev/icons?i=qt,python,cpp,bash,linux,git,arch" alt="Skills" />
 </p>
 
-### 📈 GitHub Activity Graph:
-<!--   green snake -->
-![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
+
 <!--   stats + languages -->
-| .                                                                                                                                       | .                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=mtm-x&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mtm-x&theme=radical&layout=compact) |
+
+![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=mtm-x&show_icons=true&theme=radical&include_all_commits=true)  ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mtm-x&theme=radical&layout=compact) 
 
 
 # 👾 Intrusion Detection
@@ -27,4 +24,3 @@
   <img src="https://count.getloli.com/get/@mtm-x?theme=gelbooru" alt="kawaii visitor counter">
 </p>
 
-> 🚀 Compiled with <3 using VIM on Arch.
