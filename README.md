@@ -5,5 +5,5 @@
 
 Using some of these some times 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=qt,python,cpp,bash,linux,git,arch,github,ros" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,c,bash,linux,git,arch,github,ros,qt" alt="Skills" />
 </p>
